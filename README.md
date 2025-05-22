@@ -26,19 +26,19 @@ The model learns by predicting representations of masked image regions from surr
 
 ![I-JEPA Illustration 1](assets/img1.png)
 
-*I-JEPA model architecture*
+**Architectures**
 
 ![I-JEPA Illustration 2](assets/img2.png)
 
-*Context and target regions sampling*
+**Idea**
 
 ![I-JEPA Illustration 3](assets/img3.png)
 
-*Training process visualization*
+**Context and target masking strategy**
 
 ![I-JEPA Illustration 4](assets/img4.png)
 
-*Performance comparison*
+**Training process visualization**
 
 ### References
 
